@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "44f2cc42f34fef38",
+    "type": "split",
+    "children": [
+      {
+        "id": "180de4b146d4bf62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebdb51b57634a86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f289efab4a71f807",
+    "type": "split",
+    "children": [
+      {
+        "id": "60969500c047394f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d99800fea1a9363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0fc7444dee8382d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1fb9be2e2a04f21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bdd89202ec7926a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fe7227817f059e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a668f50e6e800468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Delegates & Events/Switch Expression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3350fbf213ccf109",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Delegates & Events/Switch Expression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44e29c153355129b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f03e842310d47a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Delegates & Events/Switch Expression.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d99800fea1a9363",
+  "lastOpenFiles": [
+    "Images/Pasted image 20231210051645.png",
+    "Images/Pasted image 20231210051446.png",
+    "Delegates & Events/Switch Expression.md",
+    "Delegates & Events/Expression Bodied Members.md",
+    "Images/Pasted image 20231210051006.png",
+    "Images/Pasted image 20231210051002.png",
+    "Images/Pasted image 20231210050959.png",
+    "Delegates & Events/Lambda Expressions.md",
+    "Delegates & Events/Func.md",
+    "Delegates & Events/Anonymous methods.md",
+    "Delegates & Events/Expression Trees.md",
+    "LINQ.md",
+    "Delegates & Events/Action.md",
+    "Delegates & Events/Predicate.md",
+    "Delegates & Events/Event Handler.md",
+    "Delegates & Events/Events.md",
+    "Delegates & Events/Delegates.md",
+    "Images/Pasted image 20231209221040.png",
+    "Pasted image 20231209221019 1.png",
+    "Images/Pasted image 20231209221019.png",
+    "Images/Pasted image 20231209132303.png",
+    "Pasted image 20231209132024.png",
+    "Images/Pasted image 20231209132006.png",
+    "![[Pasted image 20231208200631.png.md",
+    "Visual Studio Extensions.md",
+    "Destructors.md",
+    "Garbage Collector & Generations.md",
+    "Typed Variable/Dynamically Typed Variable.md",
+    "Typed Variable/Implicitly Typed Variable.md",
+    "IDisposable.md",
+    "Using Declaration.md",
+    "Typed Variable",
+    "Methods/Extension Methods.md",
+    "Methods/Partial Methods.md",
+    "Handling Null/Nullable Types.md",
+    "Methods",
+    "Delegates & Events",
+    "Handling Null/Null Propagation Operator.md",
+    "Handling Null/Null coalescing.md",
+    "Handling Null",
+    "Classes",
+    "Images"
+  ]
+}
