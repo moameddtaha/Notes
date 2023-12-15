@@ -1,8 +1,8 @@
 ---
 tags:
   - Classes
-  - Methods
   - System_Object_Class
+  - Method
 ---
 
 # System.Object Class

@@ -1,6 +1,8 @@
 ---
-tags: 
-Links: "[[Events]]"
+tags:
+  - Delegates
+Links:
+  - "[[Events]]"
 ---
 
 

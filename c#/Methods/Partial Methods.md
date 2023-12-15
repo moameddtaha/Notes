@@ -1,6 +1,6 @@
 ---
 tags:
-  - Methods
+  - Method
 Links:
 ---
 

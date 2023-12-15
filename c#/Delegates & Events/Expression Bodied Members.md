@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Method
 Links:
   - "[[Lambda Expressions#Inline Lambda Expressions]]"
 ---
