@@ -1,7 +1,7 @@
 ---
 tags:
   - Classes
-  - Methods
+  - Method
 Links:
 ---
 

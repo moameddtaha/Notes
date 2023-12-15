@@ -1,9 +1,9 @@
 ---
 tags:
-  - Methods
   - Classes
   - Structures
   - Interfaces
+  - Method
 ---
 
 # Extension Methods

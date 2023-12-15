@@ -1,6 +1,8 @@
 ---
-tags: 
-Links: "[[Delegates]]"
+tags:
+  - Events
+Links:
+  - "[[Delegates]]"
 ---
 
 # Events

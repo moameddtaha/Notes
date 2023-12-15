@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "44f2cc42f34fef38",
+    "id": "c659c453abc890c8",
     "type": "split",
     "children": [
       {
-        "id": "5e33e355b97ca2f5",
+        "id": "cb2df55cf87a583e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6284ca58551926",
+            "id": "abe7b4e6a921c144",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f289efab4a71f807",
+    "id": "2238e45de071339d",
     "type": "split",
     "children": [
       {
-        "id": "60969500c047394f",
+        "id": "b3601ecbd07320db",
         "type": "tabs",
         "children": [
           {
-            "id": "7d99800fea1a9363",
+            "id": "f9b06701e3237481",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "0fc7444dee8382d4",
+            "id": "a10cd6c1148c3fc1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "f1fb9be2e2a04f21",
+            "id": "84038db125e5c01d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "bdd89202ec7926a3",
+    "id": "ce7005eae3ce0c4f",
     "type": "split",
     "children": [
       {
-        "id": "32fe7227817f059e",
+        "id": "6c43ccfaf6b197b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a668f50e6e800468",
+            "id": "7d17ee81e8238c31",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "3350fbf213ccf109",
+            "id": "dcd671f3cfa21be7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "44e29c153355129b",
+            "id": "98ce92fb7469a5d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "3f03e842310d47a2",
+            "id": "3ce7752dda8b2e3d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,49 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d99800fea1a9363",
-  "lastOpenFiles": [
-    "Arrays/Deep Copy.md",
-    "Images/Pasted image 20231215042800.png",
-    "Images/Pasted image 20231215041655.png",
-    "Images/Pasted image 20231215042428.png",
-    "Pasted image 20231215042714.png",
-    "Pasted image 20231215042703.png",
-    "Pasted image 20231215041302.png",
-    "Images/Pasted image 20231215041403.png",
-    "Images/Pasted image 20231215041240.png",
-    "Images/Pasted image 20231215040828.png",
-    "Arrays/CopyTo() & Clone().md",
-    "Images/Pasted image 20231215040520.png",
-    "Arrays/Arrays of objects.md",
-    "Arrays/Jagged Arrays.md",
-    "Arrays/Multi Dimensional Arrays.md",
-    "Jagged.md",
-    "Arrays/Reverse.md",
-    "Arrays/Sort.md",
-    "Arrays/Resize.md",
-    "Arrays/Clear.md",
-    "Arrays/Binary Search.md",
-    "Arrays/IndexOf.md",
-    "Delegates & Events/Expression Trees.md",
-    "Delegates & Events/Expression Bodied Members.md",
-    "Methods/Partial Methods.md",
-    "Delegates & Events/Lambda Expressions.md",
-    "Generics.md",
-    "Methods/Extension Methods.md",
-    "Delegates & Events/Anonymous methods.md",
-    "Classes/System.Object Class.md",
-    "Classes/Sealed Classes.md",
-    "Classes/Static Classes.md",
-    "Classes/Abstract Classes.md",
-    "Classes/Inner Classes.md",
-    "Arrays/System.Array.md",
-    "Arrays",
-    "Typed Variable",
-    "Methods",
-    "Delegates & Events",
-    "Handling Null",
-    "Classes",
-    "Images"
-  ]
+  "active": "abe7b4e6a921c144",
+  "lastOpenFiles": []
 }
