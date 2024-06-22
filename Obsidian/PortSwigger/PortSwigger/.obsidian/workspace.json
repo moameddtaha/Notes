@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "16f853fff323e90e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa0da0141b88eaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232ddd6fe856f3e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0012aee33df2789",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3fe2a192fe3e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89400bb435d10220",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "85383585c43a09d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "582e6d84cdecdfa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ad5dc96010bc0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cbca22513aaa39a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04604673a48a8bcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d23ce0c22c078ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de98a0a7651eabba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bbe1e5871973119",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "89400bb435d10220",
+  "lastOpenFiles": [
+    "Extensions/Extensions.md",
+    "Extensions/Images",
+    "Extensions",
+    "Extensions/Images/Untitled.png",
+    "Client Side/Clickjacking",
+    "Client Side/CORS/Lab 2 - APPRENTICE.md",
+    "Client Side/CORS/Lab3 -.md",
+    "Client Side/CORS/Lab 3 - PRACTITIONER.md",
+    "Client Side/CSRF/LAB 2 - PRACTITIONER.md",
+    "Client Side/CORS/Lab 1 - APPRENTICE.md",
+    "Client Side/CSRF/Same-Site cookie.md",
+    "Client Side/CORS/CORS Vulnerabilities.md",
+    "Client Side/CORS/CORS.md",
+    "Client Side/CSRF/LAB 1 - APPRENTICE.md",
+    "Client Side/CSRF/Preventing CSRF Vulrabilities.md",
+    "Client Side/CORS/Impact of CORS vulnerabilities.md",
+    "Client Side/CORS/How to prevent CORS vulnerabilities.md",
+    "Client Side/CORS/How to find CORS vulnerabilities.md",
+    "Client Side/CORS/Same-Origin Policy (SOP).md",
+    "Client Side/CORS/Exploit CORS vulnerabilities.md",
+    "Client Side/CORS/Images/Pasted image 20240121041315.png",
+    "Client Side/CSRF/CSRF.md",
+    "Client Side/CORS/Images/Pasted image 20240121040356.png",
+    "Pasted image 20240121040151.png",
+    "Client Side/CORS/Images/Pasted image 20240121034458.png",
+    "Client Side/CORS/Images/Pasted image 20240121034034.png",
+    "Client Side/CSRF/How to find CSRF Vulnrabilities.md",
+    "Client Side/CORS/Images/Pasted image 20240120070657.png",
+    "Pasted image 20240120070615.png",
+    "Client Side/CORS/Images/Pasted image 20240120070508.png",
+    "Client Side/CORS/Images/Pasted image 20240120065351.png",
+    "Client Side/CORS/Images",
+    "Client Side/CORS",
+    "Client Side/CSRF/LAB 12 - PRACTITIONER.md",
+    "Client Side/CSRF/LAB 11 - PRACTITIONER.md",
+    "Client Side/CSRF/LAB 8 - PRACTITIONER.md",
+    "Client Side/CSRF/LAB 10 - PRACTITIONER.md",
+    "Client Side/CSRF/LAB 9 - Not Solved.md",
+    "Client Side/CSRF/LAB 7 - PRACTITIONER.md",
+    "Client Side/CSRF/LAB 5 -  PRACTITIONER.md",
+    "Client Side/CSRF/Images",
+    "Client Side/CSRF",
+    "Client Side",
+    "Server Side"
+  ]
+}

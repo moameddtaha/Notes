@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"33fc8580b6d4f4e0","type":"text","text":"# ORACLE CLOUD Infrastructure","x":-505,"y":380,"width":265,"height":180,"color":"1"},
+		{"id":"e391ebf468767606","type":"text","text":"# Public cloud\n### Access cloud services in 41+ global locations including Commercial, US National Security Regions, and EU Sovereign (2023)","x":-965,"y":120,"width":460,"height":260,"color":"2"},
+		{"id":"d88eb97d795cc9ec","type":"text","text":"# Hybrid cloud\n### We bring cloud services to you, including **Oracle Exadata Cloud@Customer**, Oracle Roving Edge Infrastructure, OCI Observability and Management, and Oracle Database","x":-965,"y":560,"width":460,"height":260,"color":"5"},
+		{"id":"295cedfe91248c32","type":"text","text":"# Dedicated Cloud\n### We build a cloud just for you, with all 100+ OCI services running in customer data centers, including **OCI Dedicated Region and Oracle Alloy**","x":-240,"y":120,"width":460,"height":260,"color":"6"},
+		{"id":"3b482c059779e6ad","type":"text","text":"# Multicloud\n### Our products work with your other providers, including **[[Oracle Database Service for Azure|Oracle Database Service for Azure]], [[OCI - Azure Interconnect|Oracle Interconnect for Azure]], and Oracle MySQL Heatwave on AWS**","x":-240,"y":560,"width":460,"height":260,"color":"4"},
+		{"id":"aed840df49cd745f","type":"text","text":"# Dedicated Region Cloud@Customer\n## All OCI SERVICES, RUNNING IN CUSTOMER DATA CENTERS","x":-2040,"y":-20,"width":420,"height":280,"color":"5"},
+		{"id":"ec8f08b4fca85f3a","type":"text","text":"# Roving Edge Infrastructure\n## OCI COPMUTE AND STORAGE FOR REMOTE, DISCONNECTED SCENARIOS","x":-2040,"y":1000,"width":420,"height":280,"color":"5"},
+		{"id":"0d21001933c2c2af","type":"text","text":"# Autonomous DB on Exadata Cloud@Customer\n## CLOUD AUTONOMOUS DATABASES, RUNNING IN YOUR DATA CENTER","x":-2040,"y":640,"width":420,"height":280,"color":"5"},
+		{"id":"5c87ee403f4a148a","type":"text","text":"# Oracle Cloud VMware Solution\n## NATIVE VMWARE ON OCI IN PUBLIC CLOUD OR DEDICATED REGIONS","x":-2040,"y":330,"width":420,"height":280,"color":"5"},
+		{"id":"b9398018fd3aebdc","type":"file","file":"Img/Pasted image 20240603210441.png","x":-3000,"y":-220,"width":889,"height":480}
+	],
+	"edges":[
+		{"id":"072fbe1063dd44a9","fromNode":"d88eb97d795cc9ec","fromSide":"left","toNode":"aed840df49cd745f","toSide":"right"},
+		{"id":"33ec9c142d74c70a","fromNode":"d88eb97d795cc9ec","fromSide":"left","toNode":"5c87ee403f4a148a","toSide":"right"},
+		{"id":"fc5623423f5d46c3","fromNode":"d88eb97d795cc9ec","fromSide":"left","toNode":"0d21001933c2c2af","toSide":"right"},
+		{"id":"99b5567c2acc1df7","fromNode":"d88eb97d795cc9ec","fromSide":"left","toNode":"ec8f08b4fca85f3a","toSide":"right"},
+		{"id":"6e1641d2bd146d49","fromNode":"aed840df49cd745f","fromSide":"left","toNode":"b9398018fd3aebdc","toSide":"right"}
+	]
+}

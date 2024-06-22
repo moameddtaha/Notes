@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "2db0e5510f3d5753",
+    "type": "split",
+    "children": [
+      {
+        "id": "c115ba16c255ab0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d4afbca99d71dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxies/ZAProxy.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18413ec41126e6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c086ccda5c1b653d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b4579e32acb3ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6e511fd14ba5d78c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:contentDiscovery",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ba5594478ca9a49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "051bb20b8de4c0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4759d73378ea039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545baa1f4ce01f2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proxies/ZAProxy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f7ff2aad5de261e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proxies/ZAProxy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11ec86ac8fd168ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f418afb846bf4571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proxies/ZAProxy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6d4afbca99d71dbc",
+  "lastOpenFiles": [
+    "Proxies/Burp Suit.md",
+    "Proxies/ZAProxy.md",
+    "Web Application Penetration Testing/Content Discovery/WFUZZ.md",
+    "Web Application Penetration Testing/Content Discovery/Gobuster.md",
+    "Web Application Penetration Testing/Content Discovery/Dirbuster.md",
+    "GitHub.md",
+    "Web Application Penetration Testing/Content Discovery",
+    "Proxychains.md",
+    "Proxies",
+    "Web Application Penetration Testing/SQL Injection/Sqlmap.md",
+    "Web Application Penetration Testing/cURL.md",
+    "Web Application Penetration Testing/Httpx.md",
+    "Web Application Penetration Testing/Dome.md",
+    "Welcome.md",
+    "Web Application Penetration Testing/Nikto.md",
+    "Web Application Penetration Testing/Nessus.md",
+    "Web Application Penetration Testing/JWT.md",
+    "Web Application Penetration Testing/XSSer.md",
+    "Web Application Penetration Testing/NoSql Injection",
+    "Web Application Penetration Testing/SQL Injection/Cheatsheet.md",
+    "Web Application Penetration Testing/SQL Injection/MS-SQL.md",
+    "Web Application Penetration Testing/SQL Injection/Mysql.md",
+    "Web Application Penetration Testing/SQL Injection",
+    "Web Application Penetration Testing/Images/a.png",
+    "Web Application Penetration Testing/Images",
+    "Web Application Penetration Testing"
+  ]
+}

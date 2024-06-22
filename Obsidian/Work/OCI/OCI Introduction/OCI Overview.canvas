@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"e2181b25aee8cd12","type":"group","x":-1190,"y":-440,"width":1865,"height":570,"color":"4","label":"Core Infrastructure"},
+		{"id":"3901a0bb56a6ae6d","type":"group","x":675,"y":-1280,"width":481,"height":1410,"color":"4","label":"Governance & Administration"},
+		{"id":"798e8f4b60db2eeb","type":"group","x":-1670,"y":-1280,"width":480,"height":1410,"color":"4","label":"Developer Services"},
+		{"id":"7241abe7b64b7ac0","type":"group","x":-1190,"y":-905,"width":990,"height":414,"color":"4","label":"Data & AI"},
+		{"id":"d1ec7dec48e83062","type":"group","x":-200,"y":-891,"width":875,"height":400,"color":"4","label":"Databases"},
+		{"id":"b4f94a523aba446c","x":-1190,"y":-1280,"width":990,"height":320,"color":"4","type":"group","label":"Applications"},
+		{"id":"be13366ebae00d9a","x":-200,"y":-1280,"width":875,"height":320,"color":"4","type":"group","label":"Analytics"},
+		{"id":"a9d16ac3d90b53d6","type":"text","text":"# **Big Data**\nBig Data, Data Flow, Data Integration, Data Catalog, Golden Gate","x":-1150,"y":-788,"width":260,"height":197},
+		{"id":"7698fa8917bc2c58","type":"text","text":"# **Oracle Databases**\nATP, ADW, DBCS VM/BM, JSON, Dedicated, [[Exadata]], Exadata C@C","x":-120,"y":-823,"width":320,"height":232},
+		{"id":"006888025b41c31c","type":"text","text":"# **Distributed & OSS Databases**\nNoSQL, MySQL","x":300,"y":-823,"width":300,"height":232},
+		{"id":"c2ed704743b9388c","x":-90,"y":-1215,"width":620,"height":200,"type":"text","text":"# Business Analytics\nAnalytics Cloud, Fusion Analytics"},
+		{"id":"fc1f1c7099ad8ead","type":"text","text":"# **Compute**\nBare metal, VM, CPUs, GPUs, HPC","x":-1110,"y":-253,"width":260,"height":183},
+		{"id":"0727483f05ef8c04","type":"text","text":"# **Networking**\nVCN, LB, Service Gateway, FC, VPN, Cluster Networking","x":350,"y":-253,"width":250,"height":183},
+		{"id":"a3e14f3121cc8a8c","type":"text","text":"# **Storage**\nNVMe, Block, File, object, Archive, Data Transfer","x":-40,"y":-253,"width":260,"height":183},
+		{"id":"a56847ca4836e3d8","type":"text","text":"# **Containers**\nContainers, Kubernetes, Service Mesh, Registry","x":-770,"y":-253,"width":240,"height":183},
+		{"id":"d3573956fe7a1133","type":"text","text":"# **OS, Vmware**\nAutonomous Linux, OS Mgmt Service, Marketplace","x":-400,"y":-253,"width":220,"height":183},
+		{"id":"bc97f753971b88e6","type":"text","text":"# **AppDev**\n\nVisual Builder Studio, GraaVM, Helidon, SQL Developer, Shell, APIs/CLI/SDKs/Docs","x":-1570,"y":-744,"width":280,"height":307},
+		{"id":"ba1a388a801bb971","type":"text","text":"# **Infrastructure as Code**\nResource Manager, Terraform, Ansible","x":-1570,"y":-303,"width":280,"height":283},
+		{"id":"d1e6c74241a6c0ee","type":"text","text":"# **Low Code**\nAPEX","x":-1560,"y":-1160,"width":260,"height":289},
+		{"id":"46bb37a5464dab60","type":"text","text":"# **Cloud Ops**\n\nIAM, Compartment, Tagging, Console, Cost Advisor","x":778,"y":-1160,"width":280,"height":200},
+		{"id":"7b3a518ba65c4490","type":"text","text":"# Security\nCloud Guard, Security Zones, Vault, KMS, Data Safe, DDoS, WAF","x":778,"y":-697,"width":280,"height":213},
+		{"id":"4c1107ea61660970","type":"text","text":"# Observability\nMonitoring, Logging, Logging Analytics, Notifications,  Events, Operations Insights, APM, Managment Cloud","x":778,"y":-253,"width":280,"height":205},
+		{"id":"14c60959a6dc51a7","x":-545,"y":-1230,"width":290,"height":215,"type":"text","text":"# Business & industry SaSS\nERP, HCM, SCM, Sales, Marketing, Service, Vertical Industry"},
+		{"id":"118e2ec7e1a68a80","x":-850,"y":-1230,"width":290,"height":215,"type":"text","text":"# App Integration\nIntegration Cloud, Workflow, Notifications, Email Delivery"},
+		{"id":"0d605f12fd5c4090","x":-1150,"y":-1230,"width":290,"height":215,"type":"text","text":"# Serverless\nEvents, Functions, API Gateway"},
+		{"id":"3c32ce2e7f19425d","type":"text","text":"# **Messaging**\nStreaming, Queueing, Service Connector","x":-515,"y":-788,"width":260,"height":197},
+		{"id":"f95e0e6749aff208","type":"text","text":"# **AI services**\nData Science, Digital Assistant","x":-840,"y":-788,"width":280,"height":197}
+	],
+	"edges":[]
+}
