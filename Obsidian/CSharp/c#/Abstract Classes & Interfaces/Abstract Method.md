@@ -1,6 +1,7 @@
 ---
 tags:
   - Method
+  - Abstraction
 ---
 
 # Abstract Method

@@ -1,5 +1,6 @@
 ---
 tags:
+  - Abstraction
 ---
 
 # Abstraction

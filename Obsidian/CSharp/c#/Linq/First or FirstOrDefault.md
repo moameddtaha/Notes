@@ -57,7 +57,7 @@ namespace LINQExample
 			//Where
 			List<Employee> filteredEmployees = employees.Where(emp => emp.Job == "Manager").ToList();
 			  
-			Console.WriteLine(filteredEmployees[0].EmpID + ", " + filteredEmployees[0].EmpID);
+			Console.WriteLine(filteredEmployees[0].EmpID + ", " + filteredEmployees[0].EmpName);
 			
 			//First
             Employee firstManager = employees.First(emp => emp.Job == "Manager");

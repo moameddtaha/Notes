@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f94ca5e111aaf11d",
+        "id": "0688388303db023c",
         "type": "tabs",
         "children": [
           {
-            "id": "dc722e7e2eb252ef",
+            "id": "6c3f5fa6cbe48341",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collections/List/ConvertAll.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9424a72955320b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collections/IComparer T.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 352.5
   },
   "right": {
     "id": "bdd89202ec7926a3",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collections/List/ConvertAll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collections/List/ConvertAll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Collections/List/ConvertAll.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,56 +137,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "dc722e7e2eb252ef",
+  "active": "6c3f5fa6cbe48341",
   "lastOpenFiles": [
-    "Collections/List/Exists, Find, FindIndex, FindLast, FindLastIndex, FindAll.md",
-    "Collections/List/ConvertAll.md",
-    "Collections/List/Add, AddRange.md",
-    "Collections/Covariance.md",
-    "Linq/LINQ Basics.md",
-    "Collections/IComparer T.md",
-    "Collections/IEquatable.md",
-    "Collections/IEnumerable & IEnumerator.md",
-    "Tuples/Value Tuples.md",
-    "Tuples/Tuple Class.md",
-    "Tuples/Deconstruction.md",
-    "Linq/Min, Max, Count, Sum, Average.md",
-    "Linq/Images/Pasted image 20240225185328.png",
-    "Linq/Select.md",
-    "Linq/Images/Pasted image 20240225184657.png",
-    "Linq/Images/Pasted image 20240225184610.png",
-    "Linq/Last or LastOrDefault.md",
-    "Linq/First or FirstOrDefault.md",
-    "Linq/Single and SingleOrDefault.md",
-    "Linq/Images/Pasted image 20240225153904.png",
-    "Linq/Images/Pasted image 20240225153851.png",
-    "Linq/ElementAt and ElementOrDefault.md",
-    "Linq/Images/Pasted image 20240225145331.png",
-    "Linq/OrderBy.md",
-    "Linq/Images/Pasted image 20240225144143.png",
-    "Linq/Images/Pasted image 20240225144033.png",
-    "Linq/Images/Screenshot 2024-02-25 140535.png",
-    "Linq/Images/Screenshot 2024-02-25 140521.png",
-    "Delegates & Events/Func.md",
-    "Linq/Images",
-    "Linq",
-    "Tuples/Discards.md",
-    "Tuples/Images",
-    "Generics/Multiple Generic Parameter.md",
-    "Generics/Generic Classes.md",
-    "Properties and Indexers/Indexers.md",
-    "Properties and Indexers/Properties.md",
-    "Structures/Read-only Structures.md",
-    "Structures/Structures vs Class.md",
-    "Tuples",
-    "Anonymous Types/Images",
-    "Anonymous Types",
-    "GC, Destructor, IDisposable",
-    "Extension Method and Pattern Matching/Images",
-    "Extension Method and Pattern Matching",
-    "Generics"
+    "Asynchronous Programming/Error Handling in async methods.md",
+    "Asynchronous Programming/Async and Await Best Practice.md",
+    "Asynchronous Programming/img/11.png",
+    "Asynchronous Programming/Async and Await.md",
+    "Asynchronous Programming/img/10.png",
+    "Asynchronous Programming/img/9.png",
+    "Asynchronous Programming/Introduction to Asynchronous Programming.md",
+    "Threading/CountDownEvent.md",
+    "Threading/Thread Pool.md",
+    "Threading/Mutex.md",
+    "Threading/Semaphore.md",
+    "Threading/CSV with Threads.md",
+    "Threading/concurrent collection/Other concurrent collections.md",
+    "Threading/concurrent collection/Concurrent Queue.md",
+    "Threading/concurrent collection/Introduction to concurrent collection.md",
+    "Threading/Monitor vs ResetEvents.md",
+    "Threading/Wait and Pulse.md",
+    "Threading/Manual Reset Event vs Auto Reset Event.md",
+    "Threading/Auto Reset Event.md",
+    "Threading/Manual Reset Event.md",
+    "Threading/Lock.md",
+    "Threading/Monitor.md",
+    "Threading/Thread Synchronization.md",
+    "Threading/Shared Resources.md",
+    "Threading/Callback.md",
+    "Threading/Custom Thread Object.md",
+    "Threading/ParameterizedThreadStart.md",
+    "Threading/Thread Parameters.md",
+    "Threading/Thread States.md",
+    "Asynchronous Programming/img/8.png",
+    "Asynchronous Programming/img/7.png",
+    "Asynchronous Programming/img/6.png",
+    "Asynchronous Programming/img/5.png",
+    "Asynchronous Programming/img/4.png",
+    "Asynchronous Programming/img/3.png",
+    "Asynchronous Programming/img/2.png",
+    "Asynchronous Programming/img",
+    "Asynchronous Programming",
+    "Tasks/img",
+    "Tasks",
+    "Threading/CSV with Threads",
+    "Threading/concurrent collection",
+    "Threading/Concurrent Collections",
+    "Delegates & Events/Img",
+    "Threading/Img",
+    "Threading"
   ]
 }

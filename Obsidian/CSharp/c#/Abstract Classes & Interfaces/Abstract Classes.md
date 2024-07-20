@@ -2,6 +2,7 @@
 tags:
   - Classes
   - Comparison_Table
+  - Abstraction
 ---
 
 # Abstract Classes

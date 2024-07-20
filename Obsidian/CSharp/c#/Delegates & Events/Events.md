@@ -48,12 +48,6 @@ Links:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQgwEsJISy0?si=O7dILq9mO-upRFTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-![[Pasted image 20231208192728.png | 1000]]
-
-
-
-
-
-
+![[Events 1.png]]
 
 
