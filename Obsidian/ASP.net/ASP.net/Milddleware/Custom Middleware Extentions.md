@@ -1,35 +1,23 @@
 ---
 tags:
-  - Classes
-  - Structures
-  - Interfaces
+  - Asp_Net_Core
+  - Middleware
   - Extension
-  - Method
+  - Methods
 ---
 
-# Extension Methods
+## Extension Method
 ---
-
-[Extension Method in C#](https://www.geeksforgeeks.org/extension-method-in-c-sharp/) 
-
-![[Pasted image 20231205055955.png]]
-
-![[Pasted image 20231205060759.png]]
-
-![[Pasted image 20231205060915.png]]
-
-![[Pasted image 20231205061050.png]]
-
 
 An extension method is a special kind of static method in C# that allows you to add new methods to existing types without modifying the original type. Extension methods are defined in static classes and use the `this` keyword in the parameter list to specify the type they extend.
 
-## Key Points
+### Key Points
 
 - **Static Method**: Extension methods must be static.
 - **Static Class**: They must be contained within a static class.
 - **`this` Keyword**: The first parameter of the method specifies the type it extends and uses the `this` keyword.
 
-### Example
+#### Example
 
 Suppose you want to add a method to the `string` class that repeats the string a specified number of times. You can do this using an extension method:
 
@@ -68,26 +56,17 @@ class Program
 }
 ```
 
-#### Explanation
+##### Explanation
 
 - **Static Class**: `StringExtensions` is a static class containing the extension method.
 - **Static Method**: `Repeat` is a static method.
 - **`this` Keyword**: The `this` keyword before the `string str` parameter indicates that this method extends the `string` type.
 
-## Benefits
+### Benefits
 
 - **Cleaner Code**: Allows you to call the method as if it were a member of the type, resulting in cleaner and more readable code.
 - **Non-Intrusive**: You can add functionality to existing types without modifying them or creating derived types.
 
 Extension methods are widely used in LINQ and ASP.NET Core middleware to extend the functionality of built-in types and interfaces.
-
-
-
-
-
-
-
-
-
 
 
